@@ -1,0 +1,16 @@
+{
+  "name": "nodejsprojec",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:natancom2n/nodejsprojec.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
